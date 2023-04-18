@@ -8,7 +8,7 @@ My name is **Wenyu Zhong**, and I'm a senior majoring in Math-CS. In my free tim
 My favorite quote:
 > Never look back.
 
-![a photo token during the Road Trip, this is on the way to Zion National Park](NationalPark.jpg)
+![a photo token during the Road Trip, this is on the way to Zion National Park](NationalPark.JPG)
 <sup> a photo token during the Road Trip, this is on the way to Zion National Park.
 ~~This is my favorite photo, just kidding.~~
 
