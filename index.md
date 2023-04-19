@@ -18,7 +18,7 @@ Please find me  [here](https://github.com/Eunggseo/CSE110)
 
 [Link to go back to the top](https://eunggseo.github.io/CSE110/#about-me)
 
-[README.md guide](CSE110/README.md)
+[README.md guide](./README.md)
 
 ### Ordered and Unordered Lists
 
