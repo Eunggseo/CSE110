@@ -1,6 +1,6 @@
 # Wenyu Zhong's User Page
 ## About Me
-### *As a Programmer*{#001}
+### *As a Programmer*
 I am a programmer with two years of experience in programming. I have learned several programming languages, including JAVA, C, C++, and R. While I have more experience in back-end development, **I am interested in exploring _front-end_ development as well.** ***Currently, I am looking to collaborate with others on a project this quarter***.
 
 ### As a Person
@@ -16,7 +16,7 @@ After finish this lab, I learned how to use `git`
 
 Please find me  [here](https://github.com/Eunggseo/CSE110)
 
-[Link to My Heading](#001)
+[Link to go back to the top](#wenyu-zhong's-user-page)
 
 [README.md guide](CSE110/README.md)
 
