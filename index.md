@@ -14,10 +14,16 @@ My favorite quote:
 
 After finish this lab, I learned how to use `git`
 
+### External Links
+   
 Please find me  [here](https://github.com/Eunggseo/CSE110)
-
+   
+### Section links
+   
 [Link to go back to the top](https://eunggseo.github.io/CSE110/#about-me)
 
+### Relative links
+   
 [README.md guide](./README.md)
 
 ### Ordered and Unordered Lists
