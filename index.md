@@ -16,7 +16,7 @@ After finish this lab, I learned how to use `git`
 
 Please find me  [here](https://github.com/Eunggseo/CSE110)
 
-[Link to go back to the top](#wenyu-zhong's-user-page)
+[Link to go back to the top](https://eunggseo.github.io/CSE110/#about-me)
 
 [README.md guide](CSE110/README.md)
 
